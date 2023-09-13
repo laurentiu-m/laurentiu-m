@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurentiu Molesteanu</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
-![Img](https://tenor.com/bkJqd.gif)
+![Img](https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif)
 
 - 🌱 I’m currently learning **React.js**
 
