@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laurentiu Molesteanu</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
+<img align="right" alt="coding" widht="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimesher.com%2Fentry%2Fcode-computer-html-197855%2F&psig=AOvVaw39Aug2WlFulMMF5qdHY48R&ust=1694677081688000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjCzp6Kp4EDFQAAAAAdAAAAABAn">
+
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lawrpunk?tab=repositories](https://github.com/lawrpunk?tab=repositories)
