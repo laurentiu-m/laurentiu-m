@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laurentiu Molesteanu</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
-<img align="right" alt="coding" widht="400" src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif">
+<img align="right" alt="coding" widht="400" src="https://tenor.com/bkJqd.gif">
 
 - 🌱 I’m currently learning **React.js**
 
