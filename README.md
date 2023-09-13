@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
 <img align="right" alt="coding" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
+
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lawrpunk?tab=repositories](https://github.com/lawrpunk?tab=repositories)
