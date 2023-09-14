@@ -1,7 +1,3 @@
-<p align="center">
-  <img align="center" alt="coding" width="100%" height="500px" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
-</p>
-
 <h1 align="center">Hi 👋, I'm Laurentiu Molesteanu</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
 
