@@ -1,7 +1,7 @@
+<img align="center" alt="coding" width="100" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
+
 <h1 align="center">Hi 👋, I'm Laurentiu Molesteanu</h1>
 <h3 align="center">A passionate Junior Frontend Developer</h3>
-
-<img align="right" alt="coding" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
 
 - 🌱 I’m currently learning **React.js**
 
