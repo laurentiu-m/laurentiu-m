@@ -3,11 +3,8 @@
 
 <p align="center">
   - 🌱 I’m currently learning **React.js**
-
   - 👨‍💻 All of my projects are available [here](https://github.com/lawrpunk?tab=repositories)
-  
   - 📫 How to reach me **laurentiumolesteanu@gmail.com**
-
   - 🖥 My Codewars page you can find [here](https://www.codewars.com/users/lawrpunk/stats)
 </p>
 
